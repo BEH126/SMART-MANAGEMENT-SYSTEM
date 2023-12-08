@@ -19,8 +19,8 @@ e)Resistor
 
 Installation & Usage
 
-a)Upload the Arduino_code to your Arduino board
+a)Upload the Arduino_code to your Arduino board (The arduino code is provided)
 
-b)Install the MIT App Inventor APK on your Android device.
+b)Install the MIT App Inventor APK on your Android device (The design app is provided)
 
 c)Open the MIT App Inventor project and connect it to your Arduino board

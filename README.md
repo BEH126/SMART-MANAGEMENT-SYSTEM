@@ -17,7 +17,7 @@ d)LED
 
 e)Resistor
 
-Installation & Usage
+Installation & Usage:
 
 a)Upload the Arduino_code to your Arduino board (The arduino code is provided)
 
